@@ -6,6 +6,6 @@ let btn = document.querySelector('.one');
 
 btn.addEventListener('click', function() {
 
-    alert('a ocurrido un error');
+    alert('ha ocurrido un error');
 
 })
