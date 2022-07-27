@@ -6,6 +6,7 @@
 a{
   color:#1877f2;
     text-decoration: none;
+    
 }
 
 .container{
@@ -37,6 +38,12 @@ a{
     margin-bottom: 10px;
     width: 400px;
 
+}
+.registro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .mail-input:focus{
